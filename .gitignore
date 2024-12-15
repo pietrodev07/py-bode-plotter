@@ -1,0 +1,70 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.env.bak/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+*.out
+*.err
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python-specific cache files
+*.egg
+*.egg-info/
+.eggs/
+
+# pytest
+.cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+*.cover
+*.py,cover
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pylint
+.pylint.d/
+
+# Pyre
+.pyre/
+
+# Cython
+build/
+cython_debug/
+
+# pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# Pyright
+pyrightconfig.json
+
+# Distribution / packaging
+*.dist-info/
+dist/
+build/
+*.egg-info/
+
+# Editable installs
+src/
