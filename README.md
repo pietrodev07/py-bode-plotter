@@ -16,7 +16,7 @@ This repo contains all files of the basic implementation of the bode plotter in 
   cd py-bode-plotter
 ```
 
-**Start the development server**
+**Start the program**
 
 ```bash
   python main.py
